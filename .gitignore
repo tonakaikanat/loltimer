@@ -1,0 +1,8 @@
+# ビルド時の自動生成ファイル
+bin/
+obj/
+*.user
+
+# ローカル設定・個人データ（GitHubに上げないもの）
+lol_play_log.csv
+settings.txt
